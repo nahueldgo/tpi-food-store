@@ -3,8 +3,8 @@
 Trabajo Práctico Integrador de **Programación 4**. Aplicación web completa para un negocio de comidas: los clientes se registran, recorren el catálogo, arman un carrito y confirman pedidos; el administrador gestiona categorías, productos, stock, pedidos y usuarios.
 
 - **Autor:** Nahuel Dugo
-- **Repositorio:** `https://github.com/nahueldgo/tpi-food-store`
-- **Video:** `https://drive.google.com/file/d/1ZXFpvaHirp8Nwt3eLKihJRuYxEd0jpvD/view?usp=sharing`
+- **Repositorio:** https://github.com/nahueldgo/tpi-food-store
+- **Video:** https://drive.google.com/file/d/1ZXFpvaHirp8Nwt3eLKihJRuYxEd0jpvD/view?usp=sharing
 
 ## Tecnologías
 
